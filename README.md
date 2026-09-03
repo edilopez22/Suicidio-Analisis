@@ -47,8 +47,17 @@ suicidio-ecuador/
 
 ## 📊 Visualizaciones
 
-- **Mapa coroplético**: tasa promedio de suicidio por provincia (2012–2024).
-- **Serie temporal**: evolución anual por provincia, con Loja y Ecuador nacional destacados.
+### Casos de suicidio por nivel de intrucción
+![CSNI](outputs/figures/suicidio_nivel_instruccion.png)
+
+### Evolución temporal por nivel de instrucción
+![ETNI](outputs/figures/suicidio_nivel_instruccion_tiempo.png)
+
+### Pirámide de Casos por Sexo y Grupo de Edad
+![PCSGE](outputs/figures/suicidio_piramide_edad_sexo.png)
+
+### Mapa Coroplético — Tasa Promedio por Provincia
+![MCTPP](outputs/figures/suicidio_mapa_provincias.png)
 
 ---
 
