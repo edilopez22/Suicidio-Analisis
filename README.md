@@ -58,7 +58,8 @@ suicidio-ecuador/
 
 ### Mapa Coroplético — Tasa Promedio por Provincia
 ![MCTPP](outputs/figures/suicidio_mapa_provincias.png)
-
+### Serie Temporal por Provincia
+![STPP](outputs/figures/suicidio_tasa_provincias.png)
 ---
 
 ## 📋 Fuentes de Datos
