@@ -62,6 +62,10 @@ suicidio-ecuador/
 ![STPP](outputs/figures/suicidio_tasa_provincias.png)
 ---
 
+## 📊 Visualización Interactiva 
+https://public.tableau.com/app/profile/edisson.i.iguez/viz/Analisis_Suicidio/Dashboard1
+
+
 ## 📋 Fuentes de Datos
 
 | Dataset | URL | Notas |
