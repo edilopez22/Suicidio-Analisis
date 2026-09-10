@@ -80,7 +80,7 @@ https://public.tableau.com/app/profile/edisson.i.iguez/viz/Analisis_Suicidio/Das
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/suicidio-ecuador.git
+git clone https://github.com/edilopez22/Suicidio-Analisis.git
 cd suicidio-ecuador
 
 # 2. Crear entorno virtual (opcional pero recomendado)
